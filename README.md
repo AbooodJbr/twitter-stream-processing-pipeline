@@ -1,4 +1,4 @@
-# Twitter-Stream-Processing-Pipeline
+# Twitter Stream Processing Pipeline
 
 A scalable and real-time data pipeline for processing, analyzing, and visualizing Twitter data.
 
@@ -43,8 +43,8 @@ The Tweet Analysis Pipeline is designed to process live Twitter streams for sent
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/amjadAwad95/Twitter-Stream-Processing-Pipeline.git
-cd Twitter-Stream-Processing-Pipeline
+git clone https://github.com/AbooodJbr/twitter-stream-processing-pipeline.git
+cd twitter-stream-processing-pipeline
 ```
 
 2. Set up the Python environment:
